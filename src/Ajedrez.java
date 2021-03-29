@@ -6,7 +6,7 @@ public class Ajedrez {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int y = 0;
+        int y = 1;
     }
     
 }
